@@ -13,3 +13,10 @@
 3. Connect the servo and put it in (use some glue if needed)
 4. Put the ultrasonic sensor in the head and connect the cables
 5. Glue the head to the servo (You may have some problems you can use some other objects to help)
+6. If you printed the anntennas put them into the small pockets on the head
+
+## Usage
+Connect to the ESP32 WiFi with a device, the password is "gordon1998". 
+The IP Address is always 192.168.4.1 on my device. 
+If that does not work check the Serial 115200 baud rate.
+Connect to the IP Address on a web browser and you should be seeing a radar interface.
